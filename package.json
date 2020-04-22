@@ -1,0 +1,25 @@
+{
+  "name": "John-Jesse-Project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsosnicki647/John-Jesse-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsosnicki647/John-Jesse-Project/issues"
+  },
+  "homepage": "https://github.com/jsosnicki647/John-Jesse-Project#readme"
+}
